@@ -3,12 +3,10 @@ git usecase
 
 ### git bash 계정 변경
 1. 로그인된 계정/이메일 확인
-  + git config user.name
-  + git config user.email
+    + git config user.name
+    + git config user.email
 
-2. 두번째
-  * 두번
-    * 세번
+    
 
 
 
