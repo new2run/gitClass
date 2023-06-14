@@ -1,10 +1,10 @@
-# git 사용범
+### git 사용범
 git usecase
 
-# git bash 계정 변경
-### 로그인된 계정/이메일 확인
-git config user.name
-git config user.email
+### git bash 계정 변경
+1. 로그인된 계정/이메일 확인
+  - git config user.name
+  - git config user.email
 
 ### 로그인 계정/이메일 변경
 . git config --global user.name <변경할 이름>
@@ -18,3 +18,5 @@ git config user.email
 . 사용자 이름 : <변경할 이름>
 . 암호 : <GitHub 암호>
   
+순서가 필요한 목록
+  - 순서가 필요하지 않은 목록(서브) 
