@@ -1,7 +1,7 @@
 ### git 사용범
 git usecase
 
-### git bash 계정 변경
+### ㅁ git bash 계정 변경
 1. 로그인된 계정/이메일 확인
     + git config user.name
     + git config user.email
@@ -17,4 +17,5 @@ git usecase
         - URL : https://api.github.com/<본인계정>
         - 사용자 이름 : <변경할 이름>
         - 암호 : <GitHub 암호>
+            + 세번째
  
