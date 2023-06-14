@@ -6,6 +6,8 @@ git usecase
   + git config user.name
   + git config user.email
 
+2. 두번째
+
 
 
 ### 로그인 계정/이메일 변경
