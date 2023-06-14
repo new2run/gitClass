@@ -7,6 +7,7 @@ git usecase
   + git config user.email
 
 2. 두번째
+  * 두번
 
 
 
