@@ -18,3 +18,5 @@ git usecase
         - 사용자 이름 : <변경할 이름>
         - 암호 : <GitHub 암호>
  
+ ##### 마크다운 사용법
+https://gist.github.com/ihoneymon/652be052a0727ad59601
