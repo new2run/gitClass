@@ -17,5 +17,4 @@ git usecase
         - URL : https://api.github.com/<본인계정>
         - 사용자 이름 : <변경할 이름>
         - 암호 : <GitHub 암호>
-            + 세번째
  
