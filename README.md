@@ -19,4 +19,4 @@ git usecase
         - 암호 : <GitHub 암호>
  
  ##### 마크다운 사용법
-https://gist.github.com/ihoneymon/652be052a0727ad59601
+마크다운 사용법 : [참고링크](https://gist.github.com/ihoneymon/652be052a0727ad59601)
